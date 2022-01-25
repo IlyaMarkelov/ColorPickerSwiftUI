@@ -11,6 +11,7 @@
 		98E01151279F2F670041600C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98E01150279F2F670041600C /* ContentView.swift */; };
 		98E01153279F2F690041600C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98E01152279F2F690041600C /* Assets.xcassets */; };
 		98E01156279F2F690041600C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98E01155279F2F690041600C /* Preview Assets.xcassets */; };
+		98E0115F279FDB2C0041600C /* ColorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98E0115E279FDB2C0041600C /* ColorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		98E01150279F2F670041600C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		98E01152279F2F690041600C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98E01155279F2F690041600C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		98E0115E279FDB2C0041600C /* ColorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				98E0114E279F2F670041600C /* ColorPickerSwiftUIApp.swift */,
 				98E01150279F2F670041600C /* ContentView.swift */,
+				98E0115E279FDB2C0041600C /* ColorView.swift */,
 				98E01152279F2F690041600C /* Assets.xcassets */,
 				98E01154279F2F690041600C /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98E0115F279FDB2C0041600C /* ColorView.swift in Sources */,
 				98E01151279F2F670041600C /* ContentView.swift in Sources */,
 				98E0114F279F2F670041600C /* ColorPickerSwiftUIApp.swift in Sources */,
 			);
